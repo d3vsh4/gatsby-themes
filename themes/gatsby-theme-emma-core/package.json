@@ -22,12 +22,12 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.6.18",
     "@mdx-js/react": "^1.6.18",
-    "gatsby-plugin-mdx": "^1.2.43",
-    "gatsby-plugin-sharp": "^2.6.38",
+    "gatsby-plugin-mdx": "^1.2.46",
+    "gatsby-plugin-sharp": "^2.6.40",
     "gatsby-plugin-typescript": "^2.4.21",
-    "gatsby-remark-images": "^3.3.32",
-    "gatsby-source-filesystem": "^2.3.32",
-    "gatsby-transformer-sharp": "^2.5.16",
+    "gatsby-remark-images": "^3.3.33",
+    "gatsby-source-filesystem": "^2.3.34",
+    "gatsby-transformer-sharp": "^2.5.17",
     "lodash.kebabcase": "^4.1.1"
   },
   "keywords": [
