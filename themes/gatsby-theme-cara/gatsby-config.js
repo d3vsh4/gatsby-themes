@@ -3,7 +3,7 @@ module.exports = ({ basePath = `/`, mdx = true }) => ({
     siteTitle: `Arduino Project`,
     siteTitleAlt: `Arduino Project`,
     siteHeadline: `Arduino Project`,
-    siteUrl: ``,
+    siteUrl: `https://hima-prjvercel.app/`,
     siteDescription: `Arduino Project`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
@@ -18,7 +18,7 @@ module.exports = ({ basePath = `/`, mdx = true }) => ({
         path: `${__dirname}/src/sections`,
       },
     },
-    
+
     mdx && {
       resolve: `gatsby-plugin-mdx`,
       options: {},
