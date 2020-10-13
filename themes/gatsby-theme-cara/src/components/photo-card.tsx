@@ -12,8 +12,8 @@ type PhotoCardProps = {
 
 const PhotoCard = ({ link, title, children, bg }: PhotoCardProps) => (
   <a
-    href={link}
-    target="_blank"
+    href="#"
+    // target="_blank"
     rel="noreferrer noopener"
     sx={{
       // width: `100%`,
