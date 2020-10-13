@@ -16,9 +16,10 @@ import Header from "../components/header"
 
 const Cara = () => (
   <Layout>
-    <Parallax pages={12}>
-      <Hero offset={0.2} factor={1} />
-      <Projects offset={1.2} factor={2} />
+    <Parallax pages={11.1}>
+      <Header/>
+      <Hero offset={0.4} factor={1} />
+      <Projects offset={1.5} factor={2} />
       <About offset={3} factor={1} />
       <About2 offset={4} factor={1} />
       <Photo offset={5} factor={0.5} />
@@ -26,7 +27,7 @@ const Cara = () => (
       <Photo2 offset={7} factor={0.5} />
       <CodePhoto offset={8} factor={1} />
       {/* <Video offset={9} factor={1} /> */}
-      <Schemetics offset={9} factor={1} />
+      <Schemetics offset={9} factor={1.5} />
       <Contact offset={10} factor={1} />
     </Parallax>
   </Layout>

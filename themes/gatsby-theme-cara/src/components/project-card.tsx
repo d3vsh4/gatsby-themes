@@ -11,8 +11,8 @@ type ProjectCardProps = {
 
 const ProjectCard = ({ link, title, children, bg }: ProjectCardProps) => (
   <a
-    href={link}
-    target="_blank"
+    href="#"
+    // target="_blank"
     rel="noreferrer noopener"
     sx={{
       width: `100%`,
