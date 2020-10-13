@@ -1,13 +1,13 @@
 module.exports = ({ basePath = `/`, mdx = true }) => ({
   siteMetadata: {
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - @lekoarts/gatsby-theme-cara`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `Arduino Project`,
+    siteTitleAlt: `Arduino Project`,
+    siteHeadline: `Arduino Project`,
+    siteUrl: ``,
+    siteDescription: `Arduino Project`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `devanshu`,
     basePath,
   },
   plugins: [
